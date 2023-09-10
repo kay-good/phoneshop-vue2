@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 13 128 ГБ черный",
+      "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/484b878691d685e6045bb0b2de36f9d2/c201023fee63375d614103f3eb86c77160656dae59094cd22a883302c5144fbc.jpg",
+      "price": 799,
+      "description": "Смартфон Apple iPhone 13 со 128 ГБ постоянной памяти"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21 Ultra",
+      "image": "https://www.samsung.com/us/mobile/galaxy-s21-5g/buy/static/images/gs21-ultra-5g-phantom-black.png",
+      "price": 1199,
+      "description": "Samsung Galaxy S21 Ultra 5G Factory Unlocked Android Cell Phone 256GB US Version Smartphone Pro-Grade Camera 8K Video 108MP High Res, Phantom Black"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6 Pro",
+      "image": "https://store.google.com/product_images/acc_172271200_1.png",
+      "price": 899,
+      "description": "Google Pixel 6 Pro Unlocked with Night Sight and Ultrawide Lens - Black"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus Nord N200",
+      "image": "https://www.oneplus.com/dw/image/v2/BBRN_PRD/on/demandware.static/-/Sites-oneplus-images/default/dw7a8e4a7e/products/nord-n200/nord-n200-product-image-1.png?sw=400&sh=400",
+      "price": 239,
+      "description": "OnePlus Nord N200 - Unlocked Smartphone - US Version - Snapdragon 480 - AI Triple Camera - Dual SIM - Warp Charge - 90Hz Display - Midnight Frost"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Redmi Note 10 Pro",
+      "image": "https://www.xiaomi.com/static/image/mi-global/redmi-note-10-pro/gallery/phone.png",
+      "price": 279,
+      "description": "(New) Xiaomi Redmi Note 10 Pro |128GB+6GB RAM |108MP Quad Camera |6.67\" AMOLED Dot Display |5050mAh Battery |Dual Speakers (Onyx Gray)"
+    },
+    {
+        "id": 6,
+        "name": "Motorola Moto G Power (2022)",
+        "image": "https://www.motorola.com/us/smartphones/moto-g-power-gen-2-5g/buy/moto-g-power-gen-2-5g-hero.png",
+        "price": 199,
+        "description": "Unlocked for the freedom to choose your carrier. Compatible with AT&T, Sprint, T-Mobile, and Verizon networks. Sim card not included. Customers may need to contact Sprint for activation on Sprint’s network."
+      },
+      {
+        "id": 7,
+        "name": "Sony Xperia 1 III",
+        "image": "https://www.sony.com/image/9f4a3e8f6b9d9c3d0f8c7b8e7e1d4a3d?fmt=pjpeg&wid=660&hei=660&bgcolor=F1F5F9&bgc=F1F5F9",
+        "price": 1299,
+        "description": "Sony Xperia 1 III Dual-SIM 256GB 5G Smartphone (Unlocked / Black)"
+      },
+      {
+        "id": 8,
+        "name": "LG Stylo 7",
+        "image": "https://www.lg.com/us/images/cell-phones/md07519196/gallery/desktop-01.jpg",
+        "price": 199,
+        "description": "(New) LG Stylo 7 | Unlocked Smartphone | US Version | 64GB+3GB RAM | Dual Camera | 6.8\" FHD+ FullVision Display | Long-Lasting Battery (White)"
+      },
+      {
+        "id": 9,
+        "name": "Nokia G50",
+        "image": "https://www.nokia.com/sites/default/files/styles/product_teaser/public/product/nokia-g50/nokia-g50-product-teaser.png?itok=JQZvJnJL",
+        "price": 299,
+        "description": "(New) Nokia G50 | Unlocked Smartphone | US Version | Android One | Long Battery Life | Dual SIM | Night Mode Camera (Midnight Sun)"
+      },
+      {
+        "id": 10,
+        "name": "ASUS ROG Phone 5s Pro",
+        "image": "https://rog.asus.com/media/1638387417164.jpg",
+        "price": 1199,
+        "description": "(New) ASUS ROG Phone 5s Pro (ZS675KS) Gaming Phone, Snapdragon™️888+ ,144Hz AMOLED Display,18GB RAM/512GB ROM,6000mAh Battery,64MP Sony IMX686 Sensor Triple Cameras, AirTrigger5, Aura RGB Lighting - Phantom Black"
+      }
+  ]
